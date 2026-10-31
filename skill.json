@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-merchant-card-processing-interchange-plus-auditor-skill",
+  "version": "1.0.0",
+  "title": "Merchant Processing Interchange-Plus (IC+) Markup & Fee Leakage Skill",
+  "category": "Agentic Commerce (Merchant FinTech & Acquiring)",
+  "description": "Deconstructs monthly merchant processing statements across Visa/Mastercard Interchange, card brand assessments, and acquirer markups, detecting fee padding and downgrades.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "audit_interchange_plus_processing_fees"
+  ],
+  "dependencies": []
+}
